@@ -1,0 +1,9 @@
+# Databricks Apps configuration
+# Deploy this app from the Databricks Apps UI or CLI.
+# Set DATABRICKS_WAREHOUSE_ID to your serverless SQL warehouse ID.
+
+command: ["python", "-m", "streamlit", "run", "Home.py"]
+
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    value: "c5029555649d795f"   # <-- paste your serverless warehouse ID here
