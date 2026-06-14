@@ -1,6 +1,8 @@
-<h1>Databricks Agentic AI Project:<br><i>App to Monitor Warehouse Simulation</i></h1>
+<h1>Intellinventory<br><i>App to Monitor Warehouse Simulation</i></h1>
 
-*Code for Databricks App for monitoring for the Warehouse Simulation.*
+*Inventory management intelligence via Databricks-native agentic AI.*
+
+---
 
 > **Relevant repositories**:
 > 
